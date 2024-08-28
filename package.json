@@ -1,12 +1,16 @@
 {
-  "name": "vivekfy",              // A unique name for your library
-  "version": "1.0.0",             // The initial version of your library
+  "name": "vivekfy",
+  "version": "1.0.0",
   "description": "A custom library to download audio from YouTube URLs using a personal API.",
-  "main": "vivekfy.js",           // Entry point for your library
-  "keywords": ["audio", "youtube", "download", "vivekfy"], // Keywords related to your library
-  "author": "Vivek Masona",       // Your name
-  "license": "MIT",               // License type
+  "main": "vivekfy.js",
+  "keywords": ["audio", "youtube", "download", "vivekfy"],
+  "author": "Vivek Masona",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1"            // Any dependencies your library needs
+    "axios": "^0.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/vivekfy.git"
   }
 }
