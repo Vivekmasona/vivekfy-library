@@ -1,0 +1,22 @@
+# Ignore test and documentation directories
+test/
+docs/
+
+# Ignore development and build files
+*.log
+*.md
+*.gitignore
+*.npmignore
+*.env
+*.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore source maps
+*.map
+
+# Ignore local build artifacts
+dist/
+build/
